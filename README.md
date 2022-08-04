@@ -1,6 +1,9 @@
 Hello, I'm @rickydodd
 
-I'm a student of computer science with a deep fascination in theory and practicality.
-Currently I'm learning more about the x86-64 architecture, how to write better C and C++, and I'm also learning more about Racket (Lisp dialect).
+I'm a student of computer science at Deakin University.
+I'm currently learning more about...
+- the x86-64 architecture,
+- how to write better C++ programs,
+- and Racket.
 
-Check out [my blog](https://rickydodd.github.io/) (created using static site generation). If you want to get a hold of me, you can e-mail me @ rickydoddmobile@gmail.com
+Check out [my blog](https://rickydodd.github.io/) that I created with static site generation. It's still a work-in-progress, but it's taking shape and static site generation has been fantastic for the use-case.
