@@ -23,12 +23,20 @@
 
 <div>
 <ul>
-  <li>Student of Computer Science at Deakin University, Australia.</li>
+  <li>BCompSc, Alumni of Deakin University</li>
   <li>Learning more about...
     <ul>
-      <li>the Go programming language,</li>
-      <li>developing microservices in Go,</li>
-      <li>static site generation.</li>
+      <li>Frontend Development</li>
+      <ul>
+        <li>Fundamentals</li>
+        <li>Sass</li>
+        <li>React</li>
+      </ul>
+      <li>Backend Development</li>
+      <ul>
+        <li>Go</li>
+        <li>Node</li>
+      </ul>
     </ul>
   </li>
 </ul>
