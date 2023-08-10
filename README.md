@@ -58,5 +58,26 @@
       <li>Flexbox</li>
     </ul>
   </ul>
+  <li>Just for fun...</li>
+  <ul>
+    <li>I don't use Arch btw.</li>
+    <ul>
+      <li>I use Linux Mint, an Ubuntu-based distribution.</li>
+    </ul>
+    <li>I use Neovim btw.</li>
+    <ul>
+      <li>I moved to Neovim from vim because Neovim uses Lua instead of Vimscript.</li>
+      <li>I once saw a website titled "Learn Vimscript the Hard Way," but learning Vimscript is the hard way.</li>
+      <li>I still use vim as the default editor for git.</li>
+      <li>For some projects, I use VSCode; just because the environment is set up already.</li>
+    </ul>
+    <li>Known to get ahead of myself and use git's interactive patching.</li>
+    <li>I `git diff` so much that I ought to do it `| less`.</li>
+    <ul>
+      <li>I will, in fact, do it `| more`.</li>
+    </ul>
+    <li>I talk about brilliant.org so much that you would think I were sponsored.</li>
+    <li>I really want to learn Rust, but I don't have the time just yet.</li>
+  </ul>
 </ul>
 </div>
