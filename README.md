@@ -39,5 +39,24 @@
       </ul>
     </ul>
   </li>
+  <li>Experience with...</li>
+  <ul>
+    <li>Docker Development Environments</li>
+    <ul>
+      <li>Compose Tool Included</li>
+    </ul>
+    <li>Web-based API Development</li>
+    <ul>
+      <li>Postman</li>
+      <li>The OpenAPI 3.0 Standard</li>
+    </ul>
+    <li>Semantic HTML</li>
+    <li>Intermediate CSS</li>
+    <ul>
+      <li>Media queries</li>
+      <li>Grid</li>
+      <li>Flexbox</li>
+    </ul>
+  </ul>
 </ul>
 </div>
