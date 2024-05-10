@@ -24,38 +24,38 @@
 <div>
 <ul>
   <li>BCompSc, Alumni of Deakin University</li>
-  <li>Learning more about...
+  <li>Daily driver: NixOS</li>
+  <li>Permanently curious</li>
+  <li>Learning more about...</li>
+  <ul>
+    <li>NixOS</li>
     <ul>
-      <li>Frontend Development</li>
-      <ul>
-        <li>Fundamentals</li>
-        <li>Sass</li>
-        <li>React</li>
-      </ul>
-      <li>Backend Development</li>
-      <ul>
-        <li>Go</li>
-        <li>Node</li>
-      </ul>
+      <li>New daily driver. Previous daily driver: Pop!_OS</li>
     </ul>
-  </li>
+    <li>Frontend Development</li>
+    <ul>
+      <li>Sass</li>
+      <li>React</li>
+    </ul>
+  </ul>
   <li>Experience with...</li>
   <ul>
-    <li>Docker Development Environments</li>
+    <li>Languages (Ordered by Proficiency)</li>
     <ul>
-      <li>Compose Tool Included</li>
+      <li>Go</li>
+      <li>Python</li>
+      <li>C</li>
+      <li>C++</li>
     </ul>
-    <li>Web-based API Development</li>
+    <li>Areas of Expertise</li>
     <ul>
-      <li>Postman</li>
-      <li>The OpenAPI 3.0 Standard</li>
+      <li>Web API Development</li>
+      <li>Application Development</li>
     </ul>
-    <li>Semantic HTML</li>
-    <li>Intermediate CSS</li>
+    <li>Tools</li>
     <ul>
-      <li>Media queries</li>
-      <li>Grid</li>
-      <li>Flexbox</li>
+      <li>Linux+GNU</li>
+      <li>Docker</li>
     </ul>
   </ul>
 </ul>
