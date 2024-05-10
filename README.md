@@ -55,6 +55,9 @@
     <li>Tools</li>
     <ul>
       <li>Linux+GNU</li>
+      <li>git</li>
+      <li>GitHub</li>
+      <li>Github Actions</li>
       <li>Docker</li>
     </ul>
   </ul>
